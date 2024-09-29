@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-size: 15px;
+  color: blueviolet;
+}
+
+img {
+  width: 60%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+}
